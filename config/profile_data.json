@@ -1,0 +1,28 @@
+{
+  "profile_data": [
+    {
+      "profile_menu_locator": "/html/body/div/div[2]/header/div/div/button",
+      "settings_ul_locator": "/html/body/div[2]/div[3]/ul",
+      "logout_confirm_text_locator": "html/body/div/div[2]/div[2]/div/div/h4",
+      "logout_confirm_text": "Welcome to Campuzone",
+
+      "valid_profile_link": "https://devczerp.anichadigitalinfra.com/dashboard/profile",
+      "profile_confirm_text_locator": "/html/body/div/div[2]/main/div[2]/div/div/h4",
+      "profile_confirm_text": "Profile details",
+      "profile_edit_button_locator": "//*[@id='root']/div[2]/main/div[2]/div/div/ul/div[1]/ul/li/button",
+      "profile_edit_page_text_locator": "//*[@id='root']/div[2]/main/div[2]/div/div/ul/div[1]/div/div/h4",
+      "profile_edit_page_text": "Edit Your Details",
+      "first_name_input":"/html/body/div/div[2]/main/div[2]/div/div/ul/div[1]/div/div/form/div[1]/div/div/input",
+      "middle_name_input":"/html/body/div/div[2]/main/div[2]/div/div/ul/div[1]/div/div/form/div[2]/div/div/input",
+      "last_name_input":"/html/body/div/div[2]/main/div[2]/div/div/ul/div[1]/div/div/form/div[3]/div/div/input",
+      "adhaar_no_input":"/html/body/div/div[2]/main/div[2]/div/div/ul/div[1]/div/div/form/div[7]/div/div/input",
+      "address_input":"/html/body/div/div[2]/main/div[2]/div/div/ul/div[1]/div/div/form/div[8]/div/div/textarea[1]",
+      "save_btn_input":"/html/body/div/div[2]/main/div[2]/div/div/ul/div[1]/div/div/form/div[9]/button[2]",
+      "cancel_btn_input":"/html/body/div/div[2]/main/div[2]/div/div/ul/div[1]/div/div/form/div[9]/button[1]",
+      "close_btn_input":"/html/body/div/div[2]/main/div[2]/div/div/ul/div[1]/div/div/svg",
+      "pop_up_locator":"/html/body/div/div[1]",
+      "pop_up_txt":"Successfully Added!"
+
+    }
+  ]
+}

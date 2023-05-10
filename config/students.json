@@ -1,0 +1,136 @@
+{
+    "student_data":[
+        {
+            "student_module":"/html/body/div/div[2]/div/div/ul/div/ul/li[7]/a",
+            "add_new_student":"/html/body/div/div[2]/main/div[2]/div/div[1]/div[2]/button",
+            "personal_details_tab":"/html/body/div/div[2]/main/div[2]/div/div/div/div/div/div/button[1]",
+            "educational_details_tab":"/html/body/div/div[2]/main/div[2]/div/div/div/div/div/div/button[2]",
+            "family_details_tab":"/html/body/div/div[2]/main/div[2]/div/div/div/div/div/div/button[3]",
+            
+            "first_name_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[1]/div[2]/div/div/div/div/div[1]/div[2]/div/div/input",
+            "middle_name_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[1]/div[2]/div/div/div/div/div[1]/div[3]/div/div/input",
+            "last_name_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[1]/div[2]/div/div/div/div/div[1]/div[4]/div/div/input",
+            "student_id_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[1]/div[2]/div/div/div/div/div[1]/div[5]/div/div/input",
+            "date_of_birth_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[1]/div[2]/div/div/div/div/div[1]/div[6]/div/div/input",
+            "select_gender_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[1]/div[2]/div/div/div/div/div[1]/div[7]/div/div/div",
+            "gender_ul":"/html/body/div[2]/div[3]/ul",
+            "aadhaar_no_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[1]/div[2]/div/div/div/div/div[1]/div[8]/div/div/input",
+            "skills_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[1]/div[2]/div/div/div/div/div[2]/div[1]/div/div/input",
+            "hobbies_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[1]/div[2]/div/div/div/div/div[2]/div[2]/div/div/input",
+            "awards_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[1]/div[2]/div/div/div/div/div[3]/div[1]/div/div/input",
+            "recognitions_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[1]/div[2]/div/div/div/div/div[3]/div[2]/div/div/input",
+            "email_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[2]/div[2]/div/div/div/div/div/div[1]/div[1]/div/input",
+            "mobile_no_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[2]/div[2]/div/div/div/div/div/div[2]/div/div/input",
+            "emergency_mobile_no":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[2]/div[2]/div/div/div/div/div/div[3]/div/div/input",
+            
+            "nationality_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[3]/div[2]/div/div/div/div/div/div[1]/div/div/input",
+            "religion_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[3]/div[2]/div/div/div/div/div/div[2]/div/div/input",
+            "caste_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[3]/div[2]/div/div/div/div/div/div[4]/div/div/input",
+            "caste_ul":"/html/body/div[2]/div[3]/ul",
+            "community_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[3]/div[2]/div/div/div/div/div/div[4]/div/div/input",
+        
+            "scar_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[4]/div[2]/div/div/div/div/div/div[1]/div/div/input",
+            "mole_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[4]/div[2]/div/div/div/div/div/div[2]/div/div/input",
+            "blood_group_ul":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[4]/div[2]/div/div/div/div/div/div[3]/div/div/div",
+            "medical_history_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[4]/div[2]/div/div/div/div/div/div[4]/div/div/input",
+            
+            "language_known_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[5]/div[2]/div/div/div/div/div/div[1]/div/div/div",
+            "language_known_ul":"/html/body/div[2]/div[3]/ul",
+            "mother_tongue_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[5]/div[2]/div/div/div/div/div/div[2]/div/div/div",
+            "mother_tongue_ul":"/html/body/div[2]/div[3]/ul",
+            
+            "address_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[6]/div[2]/div/div/div/div/div[1]/div/div/div[1]/div/div/input",
+            "city_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[6]/div[2]/div/div/div/div/div[1]/div/div/div[2]/div/div/input",
+            "state_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[6]/div[2]/div/div/div/div/div[1]/div/div/div[3]/div/div/input",
+            "pincode_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[6]/div[2]/div/div/div/div/div[1]/div/div/div[4]/div/div/input",
+
+            "same_as_temp_add":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[6]/div[2]/div/div/div/div/div[2]/div[1]/div[2]/span/input",
+            "p_address_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[6]/div[2]/div/div/div/div/div[2]/div[2]/div/div[1]/div/div/input",
+            "p_city_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[6]/div[2]/div/div/div/div/div[2]/div[2]/div/div[2]/div/div/input",
+            "p_state_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[6]/div[2]/div/div/div/div/div[2]/div[2]/div/div[3]/div/div/input",
+            "p_pincode_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[6]/div[2]/div/div/div/div/div[2]/div[2]/div/div[4]/div/div/input",
+
+            "add_sibling_btn":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[7]/div[2]/div/div/div/div/div/button",
+            "sibling_name_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[7]/div[2]/div/div/div/div/div[1]/div[1]/div/div/input",
+            "sib_relation_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[7]/div[2]/div/div/div/div/div[1]/div[2]/div/div/div",
+            "sib_relation_ul":"/html/body/div[2]/div[3]/ul",
+            "sib_education_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[7]/div[2]/div/div/div/div/div[1]/div[3]/div/div/input",
+            "sib_education_institution":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[7]/div[2]/div/div/div/div/div[1]/div[4]/div/div/input",
+            "is_any_sibling_studying_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[7]/div[2]/div/div/div/div/div[2]/label/span[1]/input",
+            "does_any_sib_have_profile_already":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[7]/div[2]/div/div/div/div/div[3]/div/label/span[1]/input",
+            "enter_sib_id_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[7]/div[2]/div/div/div/div/div[4]/div[1]/div/div/input",
+            "verify_btn":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[7]/div[2]/div/div/div/div/div[4]/div[2]/button",
+
+            "cancel_btn":"/html/body/div/div[2]/main/div[2]/div/div/form/div[2]/div[1]/nav/a/button",
+            "next_btn":"/html/body/div/div[2]/main/div[2]/div/div/form/div[2]/div[2]/button",
+
+            "standard_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div/div[2]/div/div/div/div/div/div[1]/div/div/div",
+            "standard_ul":"/html/body/div[2]/div[3]/ul",
+            "medium_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div/div[2]/div/div/div/div/div/div[2]/div/div/div",
+            "medium_input_ul":"/html/body/div[2]/div[3]/ul",
+            "student_type":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div/div[2]/div/div/div/div/div/div[3]/div/div/div",
+            "hosteller":"/html/body/div[2]/div[3]/ul/li[1]",
+            "day_scholar":"/html/body/div[2]/div[3]/ul/li[2]",
+
+            "date_of_joining":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div/div[2]/div/div/div/div/div/div[4]/div/div/input",
+            "admission_no":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div/div[2]/div/div/div/div/div/div[5]/div/div/input",
+            "role_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div/div[2]/div/div/div/div/div/div[6]/div/div/div",
+            "role_ul":"/html/body/div[2]/div[3]/ul",
+            "status_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div/div[2]/div/div/div/div/div/div[7]/div/div/div",
+            "status_active_option":"/html/body/div[2]/div[3]/ul/li[1]",
+            "status_inactive_option":"/html/body/div[2]/div[3]/ul/li[2]",
+            "back_btn":"/html/body/div/div[2]/main/div[2]/div/div/form/div[2]/div[2]/button",
+
+            "parent_id_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[1]/div[2]/div/div/div/div/div/div[1]/div/div/input",
+            "annual_income_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[1]/div[2]/div/div/div/div/div/div[2]/div/div/input",
+            "role_group_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[1]/div[2]/div/div/div/div/div/div[3]/div/div/div",
+            "role_group_ul":"/html/body/div[2]/div[3]/ul",
+            "g_status_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[1]/div[2]/div/div/div/div/div/div[4]/div/div/div",
+            "g_status_active":"/html/body/div[2]/div[3]/ul/li[1]",
+            "g_status_inactive":"/html/body/div[2]/div[3]/ul/li[2]",
+
+            "father_name_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[2]/div[2]/div/div/div/div/div[1]/div[1]/div/div/input",
+            "father_dob_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[2]/div[2]/div/div/div/div/div[1]/div[2]/div/div/input",
+            "father_mobile_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[2]/div[2]/div/div/div/div/div[1]/div[3]/div/div/input",
+            "father_email_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[2]/div[2]/div/div/div/div/div[1]/div[4]/div/div/input",
+            "father_education_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[2]/div[2]/div/div/div/div/div[2]/div[1]/div/div/input",
+            "father_occupation_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[2]/div[2]/div/div/div/div/div[2]/div[2]/div/div/input",
+
+            "mother_name_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[3]/div[2]/div/div/div/div/div[1]/div[1]/div/div/input",
+            "mother_dob_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[4]/div[2]/div/div/div/div/div[1]/div[2]/div/div/input",
+            "mother_mobile_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[3]/div[2]/div/div/div/div/div[1]/div[3]/div/div/input",
+            "mother_gmail_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[3]/div[2]/div/div/div/div/div[1]/div[4]/div/div/input",
+            "mother_education_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[3]/div[2]/div/div/div/div/div[2]/div[1]/div/div/input",
+            "mother_occupation_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[3]/div[2]/div/div/div/div/div[2]/div[2]/div/div/input",
+
+
+            "guardian_name_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[4]/div[2]/div/div/div/div/div[1]/div[1]/div/div/input",
+            "guardian_dob_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[4]/div[2]/div/div/div/div/div[1]/div[2]/div/div/input",
+            "guardian_email_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[4]/div[2]/div/div/div/div/div[1]/div[3]/div/div/input",
+            "guardian_mobile_no_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[4]/div[2]/div/div/div/div/div[1]/div[4]/div/div/input",
+            "guardian_relation_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[4]/div[2]/div/div/div/div/div[2]/div[1]/div/div/input",
+            "guardian_education_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[4]/div[2]/div/div/div/div/div[2]/div[2]/div/div/input",
+            "guardian_occupation_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[4]/div[2]/div/div/div/div/div[2]/div[3]/div/div/input",
+            "notes_input":"/html/body/div/div[2]/main/div[2]/div/div/form/div[1]/div[4]/div[2]/div/div/div/div/div[2]/div[5]/div/div/input",
+
+            "submit_btn":"",
+
+            "view_student_details":"/html/body/div/div[2]/main/div[2]/div/div[2]/div/div/div[2]/div/div/table/tbody/tr[1]/td[5]/button",
+            "edit_btn":"/html/body/div/div[2]/main/div[2]/div/div[2]/div/div/div[2]/div/div/table/tbody/tr[1]/td[6]/div[1]/button/svg",
+            "delete_btn":"/html/body/div/div[2]/main/div[2]/div/div[2]/div/div/div[2]/div/div/table/tbody/tr[1]/td[6]/div[2]/button",
+            "delete_cancel_btn":"/html/body/div/div[2]/main/div[2]/div/div[2]/div/div/div[2]/div/button[2]",
+            "delete_confirm_btn":"/html/body/div/div[2]/main/div[2]/div/div[2]/div/div/div[2]/div/button[1]",
+            "close_btn":"/html/body/div/div[2]/main/div[2]/div/div[2]/div/div/div[2]/div/svg"
+
+
+
+
+
+
+
+
+
+
+        }
+    ]
+}

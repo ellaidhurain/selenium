@@ -1,0 +1,26 @@
+Father Name,Occupation,Father Email,Father Phone,Mother Name,Mother Occupation,Mother Email,Mother Phone,Guardian Name,Occupation,Guardian Email,Guardian Phone,Guardian Relation
+John,Doctor,erptestfather01@yopmail.com,8829176345,Mary,Doctor,erptestmother01@yopmail.com,8250491736,Emily Garcia,Doctor,erptestguardian01@yopmail.com,8790654321,Aunt
+William,Teacher,erptestfather02@yopmail.com,9026641837,Jennifer,Teacher,erptestmother02@yopmail.com,8945273160,David Rodriguez,Teacher,erptestguardian02@yopmail.com,9078563210,Uncle
+Michael,Engineer,erptestfather03@yopmail.com,8357294901,Elizabeth,Engineer,erptestmother03@yopmail.com,8039256174,Olivia Martinez,Engineer,erptestguardian03@yopmail.com,8234567190,Older sister
+David,Accountant,erptestfather04@yopmail.com,9324801587,Susan,Accountant,erptestmother04@yopmail.com,8914730265,William Hernandez,Accountant,erptestguardian04@yopmail.com,8357902146,Older brother
+Robert,Lawyer,erptestfather05@yopmail.com,8753190426,Patricia,Lawyer,erptestmother05@yopmail.com,8179643520,Sophia Davis,Lawyer,erptestguardian05@yopmail.com,8740296531,Younger sister
+James,Nurse,erptestfather06@yopmail.com,9031287564,Linda,Nurse,erptestmother06@yopmail.com,8497052136,Christopher Wright,Nurse,erptestguardian06@yopmail.com,9023456781,Younger brother
+Richard,Entrepreneur,erptestfather07@yopmail.com,7829103654,Karen,Entrepreneur,erptestmother07@yopmail.com,8731924506,Isabella Green,Entrepreneur,erptestguardian07@yopmail.com,8976432105,Cousin
+Joseph,Scientist,erptestfather08@yopmail.com,9148923087,Nancy,Scientist,erptestmother08@yopmail.com,8359426107,Joseph Brown,Scientist,erptestguardian08@yopmail.com,8034567892,Godmother
+Thomas,Artist,erptestfather09@yopmail.com,8349502671,Margaret,Artist,erptestmother09@yopmail.com,9175364820,Ava Mitchell,Artist,erptestguardian09@yopmail.com,8923456701,Godfather
+Charles,Writer,erptestfather10@yopmail.com,8910473652,Sarah,Writer,erptestmother10@yopmail.com,8740256319,Ethan Johnson,Writer,erptestguardian10@yopmail.com,8765432190,Family friend
+Christopher,Athlete,erptestfather11@yopmail.com,8471029365,Emily,Athlete,erptestmother11@yopmail.com,9243761580,Mia Baker,Athlete,erptestguardian11@yopmail.com,8274905613,Neighbor
+Matthew,Chef,erptestfather12@yopmail.com,9267483015,Rebecca,Chef,erptestmother12@yopmail.com,8096437152,Alexander Collins,Chef,erptestguardian12@yopmail.com,8956742310,Teacher
+Steven,Musician,erptestfather13@yopmail.com,8739462105,Laura,Musician,erptestmother13@yopmail.com,8625390741,Charlotte Jackson,Musician,erptestguardian13@yopmail.com,8934506712,Coach
+Daniel,Actor,erptestfather14@yopmail.com,9038172654,Jessica,Actor,erptestmother14@yopmail.com,8971453620,Samuel Lee,Actor,erptestguardian14@yopmail.com,9012345678,Mentor
+Brian,Social worker,erptestfather15@yopmail.com,8710526398,Lisa,Social worker,erptestmother15@yopmail.com,8095342761,Amelia Adams,Social worker,erptestguardian15@yopmail.com,8674321059,Social worker
+Andrew,Psychologist,erptestfather16@yopmail.com,8920347156,Amy,Psychologist,erptestmother16@yopmail.com,8397612045,Benjamin Perez,Psychologist,erptestguardian16@yopmail.com,9087654321,Step-mother
+Kevin,Sales representative,erptestfather17@yopmail.com,8049362175,Michelle,Sales representative,erptestmother17@yopmail.com,8765409132,Harper Turner,Sales representative,erptestguardian17@yopmail.com,8472036591,Step-father
+Timothy,Marketing manager,erptestfather18@yopmail.com,9075482361,Angela,Marketing manager,erptestmother18@yopmail.com,8542361907,Michael Lewis,Marketing manager,erptestguardian18@yopmail.com,8210987654,Adoptive mother
+Anthony,Financial advisor,erptestfather19@yopmail.com,8791506432,Stephanie,Financial advisor,erptestmother19@yopmail.com,8430157926,Abigail Cooper,Financial advisor,erptestguardian19@yopmail.com,8240937651,Adoptive father
+Nicholas,Human resources manager,erptestfather20@yopmail.com,9238741056,Katherine,Human resources manager,erptestmother20@yopmail.com,8729361054,Daniel Wilson,Human resources manager,erptestguardian20@yopmail.com,8540396712,Grandmother
+Benjamin,Information technology specialist,erptestfather21@yopmail.com,8935764210,Rachel,Information technology specialist,erptestmother21@yopmail.com,9283650147,Madison Campbell,Information technology specialist,erptestguardian21@yopmail.com,8967342105,Grandfather
+Patrick,Project manager,erptestfather22@yopmail.com,8059476321,Julia,Project manager,erptestmother22@yopmail.com,8039652471,Matthew Parker,Project manager,erptestguardian22@yopmail.com,8754012396,Godfather
+George,Graphic designer,erptestfather23@yopmail.com,8250193476,Christina,Graphic designer,erptestmother23@yopmail.com,8649351207,Elizabeth Flores,Graphic designer,erptestguardian23@yopmail.com,8390621547,Family friend
+Edward,Real estate agent,erptestfather24@yopmail.com,8957164203,Diana,Real estate agent,erptestmother24@yopmail.com,8340571269,Andrew Ramirez,Real estate agent,erptestguardian24@yopmail.com,8462917530,Neighbor
+Frank,Public relations specialist,erptestfather25@yopmail.com,9087461235,Sandra,Public relations specialist,erptestmother25@yopmail.com,8692103574,Grace Reyes,Public relations specialist,erptestguardian25@yopmail.com,8975346210,Teacher

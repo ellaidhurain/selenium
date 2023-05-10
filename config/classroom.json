@@ -1,0 +1,14 @@
+{
+  "classroom_data": [{
+    "classroom_module":"/html/body/div/div[2]/div/div/ul/div/ul/li[8]/a",
+    "add_new_classroom":"/html/body/div/div[2]/main/div[2]/div/div[1]/div[2]/button",
+    "class_group":"/html/body/div/div[2]/main/div[2]/div[2]/div/form/div[2]/div/div/div",
+    "standard":"/html/body/div/div[2]/main/div[2]/div[2]/div/form/div[3]/div/div/div",
+
+   
+    "add_new_classroom_academic_year":"/html/body/div/div[2]/main/div[2]/div/div[3]/div[2]/button",
+    "year":"/html/body/div/div[2]/main/div[2]/div[2]/div/form/div[2]/div/div/div",
+    "teacher":"/html/body/div/div[2]/main/div[2]/div[2]/div/form/div[3]/div/div/div"
+    
+  }]
+}

@@ -1,0 +1,68 @@
+{
+  "news_data": [
+    {
+      "profile_menu_locator": "/html/body/div/div[2]/header/div/div/button",
+      "settings_ul_locator": "/html/body/div[2]/div[3]/ul",
+      "news_title_locator": "/html/body/div/div[2]/main/div[2]/div[1]/h5/span",
+      "valid_news_link": "https://devczerp.anichadigitalinfra.com/dashboard/news",
+      "add_news_btn_locator": "/html/body/div/div[2]/main/div[2]/div[1]/div/button",
+      "news_confirm_txt_locator": "/html/body/div/div[2]/main/div[2]/div[2]/div[1]/div[4]/div/h6",
+
+      "news_title_input_locator": "//*[@id='outlined-required']",
+      "news_description_locator": "//*[@id='outlined-multiline-static']",
+      "start_date_locator": "//*[@id=':r7:']",
+      "end_date_locator": "//*[@id=':r8:']",
+      "role_group_locator": "//*[@id='mui-component-select-News_group']",
+      "news_role_ul_list_locator": "//*[@id='menu-News_group']/div[3]/ul",
+      "news_role_ok_btn_locator": "//*[@id='menu-News_group']/div[3]/ul/li[8]/button",
+      "choose_file_locator": "//*[@id='outlined-required']",
+      "news_cancel_btn_locator": "//*[@id='outlined-required']",
+      "news_close_btn_locator": "//*[@id='Capa_1']",
+      "news_save_btn_locator": "//*[@id='root']/div[2]/main/div[2]/div[2]/div[1]/div[4]/div/form/div[3]/button[2]",
+      "pagination_btn_locator":"//*[@id='root']/div[2]/main/div[2]/div[2]/div[2]/nav/ul"
+    }
+  ],
+
+  "search_news_data": [
+    {
+      "search_bar_locator": "//*[@id='outlined-adornment-password']",
+      "sort_by_start_date_locator": "/html/body/div/div[2]/main/div[2]/div[2]/div[1]/div[1]/div/input",
+      "sort_by_end_date_locator": "/html/body/div/div[2]/main/div[2]/div[2]/div[1]/div[2]/div/input"
+    }
+  ],
+
+  "edit_news_data": [
+    {
+      "profile_menu_locator": "/html/body/div/div[2]/header/div/div/button",
+      "settings_ul_locator": "/html/body/div[2]/div[3]/ul",
+      "news_title_locator": "/html/body/div/div[2]/main/div[2]/div[1]/h5/span",
+      "valid_news_link": "https://devczerp.anichadigitalinfra.com/dashboard/news",
+
+      "news_list_locator":"//*[@id='root']/div[2]/main/div[2]/div[2]/div[1]/ul",
+      "edit_news_btn_locator": "/html/body/div/div[2]/main/div[2]/div[2]/div[1]/ul/div[1]/ul/li/div[2]/button[2]",
+      "news_confirm_txt_locator": "/html/body/div/div[2]/main/div[2]/div[2]/div[1]/div[4]/div/h6",
+
+      "news_title_input_locator": "//*[@id='outlined-required']",
+      "news_description_locator": "//*[@id='outlined-multiline-static']",
+      "start_date_locator": "/html/body/div/div[2]/main/div[2]/div[2]/div[1]/div[4]/div/form/div[1]/div[3]/div/div/input",
+      "end_date_locator": "/html/body/div/div[2]/main/div[2]/div[2]/div[1]/div[4]/div/form/div[1]/div[4]/div/div/input",
+      "role_group_locator": "//*[@id='mui-component-select-News_group']",
+      "news_role_ul_list_locator": "/html/body/div[2]/div[3]/ul",
+      "news_role_ok_btn_locator": "//*[@id='menu-News_group']/div[3]/ul/li[8]/button",
+      "choose_file_locator": "//*[@id='outlined-required']",
+      "news_cancel_btn_locator": "//*[@id='outlined-required']",
+      "news_close_btn_locator": "//*[@id='Capa_1']",
+      "news_save_btn_locator": "//*[@id='root']/div[2]/main/div[2]/div[2]/div[1]/div[4]/div/form/div[3]/button[2]",
+      "news_success_message_locator":"/html/body/div/div[1]",
+      "pagination_btn_locator":"/html/body/div/div[2]/main/div[2]/div[2]/div[2]/nav/ul"
+    }
+  ],
+
+  "delete_news_data": [
+    {
+      "sure_btn_locator":"//*[@id='root']/div[2]/main/div[2]/div[2]/div[1]/div[4]/div/form/div/button[2]",
+      "cancel_btn_locator":"//*[@id='root']/div[2]/main/div[2]/div[2]/div[1]/div[4]/div/form/div/button[1]"
+    
+    }
+  ]
+}

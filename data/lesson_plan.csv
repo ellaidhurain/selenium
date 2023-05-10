@@ -1,0 +1,27 @@
+ADD UNIT,,ADD SUBUNIT,ADD TOPIC
+Name,Notes,Name,Name
+Introduction to Chemistry,Combustion reactions: These reactions involve a fuel reacting with an oxidant to produce heat and light. The products are always carbon dioxide and water.,Types of Chemical Reactions,Combustion reactions
+States of Matter,Synthesis reactions: These reactions involve the combination of two or more reactants to form a single product. The reactants may be elements or compounds.,Balancing Chemical Equations,Synthesis reactions
+Chemical Reactions,Decomposition reactions: These reactions involve the breakdown of a single reactant into two or more products. The products may be elements or compounds.,Stoichiometry,Decomposition reactions
+Atomic Structure,Single-displacement reactions: These reactions involve an element reacting with a compound to produce a new element and a new compound.,Limiting Reactants,Single-displacement reactions
+Chemical Bonding,Double-displacement reactions: These reactions involve two compounds reacting to produce two new compounds. The cations and anions of the reactants exchange places.,Reaction Rates,Double-displacement reactions
+Acids and Bases,Neutralization reactions: These reactions involve an acid reacting with a base to produce a salt and water.,Factors Affecting Reaction Rates,Neutralization reactions
+Solutions and Solubility,Acid-base reactions: These reactions involve the transfer of a proton (H+) from an acid to a base.,Collision Theory,Acid-base reactions
+Chemical Equilibrium,Redox reactions: These reactions involve the transfer of electrons from one species to another.,Catalysts,Redox reactions
+Chemical Thermodynamics,Oxidation-reduction reactions: These reactions involve the oxidation of one species and the reduction of another.,Enthalpy and Entropy,Oxidation-reduction reactions
+Electrochemistry,Precipitation reactions: These reactions involve the formation of an insoluble solid (precipitate) from the reaction of two aqueous solutions.,Gibbs Free Energy,Precipitation reactions
+Nuclear Chemistry,Acid-base titration: This is a laboratory technique used to determine the concentration of an unknown acid or base by reacting it with a known concentration of the opposite type.,Activation Energy,Acid-base titration
+Organic Chemistry,"Law of conservation of mass: This law states that matter cannot be created or destroyed, only transformed.",Reaction Mechanisms,Law of conservation of mass
+Biochemistry,Law of definite proportions: This law states that a compound always contains the same elements in the same proportions by mass.,Reaction Intermediates,Law of definite proportions
+Polymer Chemistry,"Law of multiple proportions: This law states that when two elements combine to form more than one compound, the ratios of the masses of one element that combine with a fixed mass of the other element can be expressed as small whole numbers.",Elementary Reactions,Law of multiple proportions
+Analytical Chemistry,"Mole concept: This concept relates the mass of a substance to the number of particles (atoms, molecules, or ions) it contains.",Acid-Base Reactions,Mole concept
+Physical Chemistry,Mass-mole conversions: These conversions involve converting between the mass of a substance and the number of moles it contains.,Redox Reactions,Mass-mole conversions
+Environmental Chemistry,Volume-mole conversions: These conversions involve converting between the volume of a gas and the number of moles it contains.,Combustion Reactions,Volume-mole conversions
+Pharmaceutical Chemistry,Stoichiometry problems: These problems involve using the balanced chemical equation to calculate the amounts of reactants and products involved in a chemical reaction.,Single Displacement Reactions,Stoichiometry problems
+Materials Science,"Percent yield: This is a measure of the efficiency of a chemical reaction, calculated by comparing the actual yield to the theoretical yield.",Double Displacement Reactions,Percent yield
+Food Chemistry,Limiting reactant problems: These problems involve determining which reactant limits the amount of product that can be formed in a reaction.,Precipitation Reactions,Limiting reactant problems
+Forensic Chemistry,Excess reactant problems: These problems involve determining how much of one reactant is left over after the reaction has taken place.,Neutralization Reactions,Excess reactant problems
+Medicinal Chemistry,Reaction rate equations: These equations describe how the rate of a chemical reaction is affected by the concentrations of the reactants and the temperature.,Acid-Base Titration,Reaction rate equations
+Green Chemistry,"Factors affecting reaction rate: These include concentration, temperature, pressure, catalysts, and surface area.",Equilibrium Constant (Kc),Factors affecting reaction rate
+Petrochemistry,Activation energy and reaction rate: The activation energy is the minimum amount of energy required for a reaction to take place. A higher activation energy means a slower reaction rate.,Le Chatelier's Principle,Activation energy and reaction rate
+Computational Chemistry,Collision theory of chemical reactions: This theory states that chemical reactions occur when reacting particles collide with sufficient energy and the correct orientation.,Equilibrium Calculations,Collision theory of chemical reactions

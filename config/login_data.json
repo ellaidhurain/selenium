@@ -1,0 +1,25 @@
+{
+  "login_data": [
+    {
+      "valid_home_link": "https://liveczerp.anichadigitalinfra.com",
+      "valid_login_link": "https://liveczerp.anichadigitalinfra.com/login",
+      "valid_dashboard_link": "https://liveczerp.anichadigitalinfra.com/dashboard",
+
+      "login_confirm_text_locator": "/html/body/div/div[2]/div[2]/div/div/h4",
+      "login_confirm_text": "Welcome to Campuzone",
+      "login_btn_locator": "/html/body/div/div[2]/div[2]/div/div/button",
+  
+      "school_list_ul_locator": "//*[@id='root']/div[2]/div/ul",
+      "your_school_list_text_locator": "//*[@id='root']/div[2]/div/ul",
+      "dashboard_confirm_text_locator": "/html/body/div/div[2]/header/div/h6/p",
+      "dashboard_confirm_text": "Martin School",
+      "profile_menu_locator": "/html/body/div/div[2]/header/div/div/button",
+      "settings_ul_locator": "/html/body/div[2]/div[3]/ul",
+      "logout_confirm_text_locator": "html/body/div/div[2]/div[2]/div/div/h4",
+      "logout_confirm_text": "Welcome to Campuzone"
+
+
+    }
+
+  ]
+}

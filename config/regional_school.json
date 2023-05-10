@@ -1,0 +1,46 @@
+{
+    "regional_school_data":[
+        {
+            "profile_menu_locator": "/html/body/div/div[2]/header/div/div/button",
+            "settings_ul_locator": "/html/body/div[2]/div[3]/ul",
+            "valid_profile_link": "https://devczerp.anichadigitalinfra.com/dashboard/profile",
+            
+            "regional_school_confirm_text_locator":"//*[@id='root']/div[2]/main/div[2]/div/div/ul/div[2]/div/h4",
+            "confirm_text":"Regional School Details",
+            "regional_school_ul":"/html/body/div/div[2]/main/div[2]/div/div/ul",
+            "active_btn_locator":"//*[@id='root']/div[2]/main/div[2]/div/div/ul/li[1]/div[3]/div",
+            "school_logo_input":"/html/body/div/div[2]/main/div[2]/div[1]/div/div/form/div/div[1]/div/div/input",
+            "school_domain_name_input":"/html/body/div/div[2]/main/div[2]/div[1]/div/div/form/div/div[2]/div/div/input",
+            "school_name_input":"/html/body/div/div[2]/main/div[2]/div[1]/div/div/form/div/div[4]/div/div/input",
+            "school_address1_input":"/html/body/div/div[2]/main/div[2]/div[1]/div/div/form/div/div[5]/div/div/input",
+            "school_address2_input":"/html/body/div/div[2]/main/div[2]/div[1]/div/div/form/div/div[6]/div/div/input",
+            "school_taluk_input":"/html/body/div/div[2]/main/div[2]/div[1]/div/div/form/div/div[7]/div/div/input",
+            "school_state_input":"/html/body/div/div[2]/main/div[2]/div[1]/div/div/form/div/div[8]/div/div/div",
+            "school_state_input_ul":"/html/body/div[2]/div[3]/ul",
+            "school_district_input":"/html/body/div/div[2]/main/div[2]/div[1]/div/div/form/div/div[9]/div/div/div",
+            "school_district_input_ul":"/html/body/div[2]/div[3]/ul",
+            "school_pincode_input":"/html/body/div/div[2]/main/div[2]/div[1]/div/div/form/div/div[10]/div/div/input",
+            "school_close_btn":"/html/body/div/div[2]/main/div[2]/div[1]/div/svg",
+            "school_next_btn":"//*[@id='root']/div[2]/main/div[2]/div[1]/div/div/form/div/div[13]/button[2]",
+            "school_phoneno_input":"/html/body/div/div[2]/main/div[2]/div[1]/div/div/form/div/div[1]/div/div/input",
+            "school_mail_input":"/html/body/div/div[2]/main/div[2]/div[1]/div/div/form/div/div[2]/div/div/input",
+            "school_type_input":"/html/body/div/div[2]/main/div[2]/div[1]/div/div/form/div/div[3]/div/div/div",
+            "school_type_input_ul":"//*[@id='menu-School_type']/div[3]/ul",
+            "school_governance_input":"/html/body/div/div[2]/main/div[2]/div[1]/div/div/form/div/div[4]/div/div/div",
+            "school_governance_input_ul":"/html/body/div[2]/div[3]/ul",
+            "school_board_of_education_input":"/html/body/div/div[2]/main/div[2]/div[1]/div/div/form/div/div[5]/div/div/div",
+            "school_board_of_education_input_ul":"/html/body/div[2]/div[3]/ul",
+            "school_gender_type_input":"/html/body/div/div[2]/main/div[2]/div[1]/div/div/form/div/div[6]/div/div/div",
+            "school_gender_type_input_ul":"/html/body/div[2]/div[3]/ul",
+            "school_no_of_staff_input":"/html/body/div/div[2]/main/div[2]/div[1]/div/div/form/div/div[7]/div/div/input",
+            "school_no_of_student_input":"/html/body/div/div[2]/main/div[2]/div[1]/div/div/form/div/div[8]/div/div/input",
+            "school_highest_standard_input":"/html/body/div/div[2]/main/div[2]/div[1]/div/div/form/div/div[10]/div/div/div",
+            "school_highest_standard_input_ul":"/html/body/div[2]/div[3]/ul",
+            "school_back_btn":"//*[@id='root']/div[2]/main/div[2]/div[1]/div/div/form/div/div[13]/button",
+            "school_cancel_btn":"//*[@id='root']/div[2]/main/div[2]/div[1]/div/div/form/div/div[14]/button[1]",
+            "school_save_btn":"//*[@id='root']/div[2]/main/div[2]/div[1]/div/div/form/div/div[14]/button[2]"
+            
+        
+        }
+    ]
+}
